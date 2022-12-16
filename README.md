@@ -1,1 +1,1 @@
-# Magazine_CSSgrid
+# Magazine_Front
